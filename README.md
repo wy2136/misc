@@ -2,7 +2,7 @@
 Miscellaneous
 
 ## Slides
-* [IPO and Indian Ocean Hydroclimate](https://docs.google.com/presentation/d/1ncwRY-phRPwW1Pzo_oqd6by9NxWdVv-fm3q1Wl0DAXs)
+* [Sri Lanka Rainfall Inter-decadal Variability](https://docs.google.com/presentation/d/1ncwRY-phRPwW1Pzo_oqd6by9NxWdVv-fm3q1Wl0DAXs)
 
 ## Notebooks
 * [Github on nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/wy2136/)
