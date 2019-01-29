@@ -3,6 +3,8 @@ Miscellaneous
 
 ## Slides
 * [Sri Lanka Rainfall Inter-decadal Variability](https://docs.google.com/presentation/d/1ncwRY-phRPwW1Pzo_oqd6by9NxWdVv-fm3q1Wl0DAXs)
+* [ENSO](https://docs.google.com/presentation/d/1NZeWN8EjMGxwU7H4c_xCyhmWN0T941WSQrJqCgdcqGQ/edit?usp=sharing)
+* [Sri Lanka and SST](https://docs.google.com/presentation/d/17WnZLAkRbEri2ciuyBp243tKVrv47scp-Sis6GxKPvE/edit?usp=sharing)
 
 ## Notebooks
 * [Github on nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/wy2136/)
