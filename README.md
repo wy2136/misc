@@ -30,3 +30,4 @@ Miscellaneous
 
 ## Tips
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [work with tigerdata](https://github.com/PrincetonUniversity/tigerdata-offloading)
