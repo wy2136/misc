@@ -29,5 +29,6 @@ Miscellaneous
 * [Volcanic Impact on Climate: Santa Maria vs. Agung](http://tigress-web.princeton.edu/~wenchang/pub/volcanic_impact/img/volc_impact_f10.gif)
 
 ## Tips
-* [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [work on remote server](https://github.com/wy2136/learnPython/blob/master/get_started.md)
 * [work with tigerdata](https://github.com/PrincetonUniversity/tigerdata-offloading)
+* [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
