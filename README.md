@@ -1,6 +1,11 @@
 # misc
 Miscellaneous
 
+## Tips
+* [work on remote server](https://github.com/wy2136/learnPython/blob/master/get_started.md)
+* [work with tigerdata](https://github.com/PrincetonUniversity/tigerdata-offloading)
+* [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 ## Slides
 * [2021-09-29: Climate Models and Experiments on Tiger](https://docs.google.com/presentation/d/1avTt-jKJb_XqO5CyYEbbKWuL5uVmIZT7IVWE1TpO0MI)
 * [2019-10-28: TC in IBTrACS_v04_1980-2018](https://docs.google.com/presentation/d/1tIAR1QI4jt7iuexMTK8axNdEyiO_MO64T13HIIv8D8Q)
@@ -27,8 +32,3 @@ Miscellaneous
 
 ## Animations
 * [Volcanic Impact on Climate: Santa Maria vs. Agung](http://tigress-web.princeton.edu/~wenchang/pub/volcanic_impact/img/volc_impact_f10.gif)
-
-## Tips
-* [work on remote server](https://github.com/wy2136/learnPython/blob/master/get_started.md)
-* [work with tigerdata](https://github.com/PrincetonUniversity/tigerdata-offloading)
-* [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
