@@ -7,7 +7,9 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2022-04-06: 2021 PNW heatwave and urbanization](https://docs.google.com/presentation/d/1nK6VjJ2ACYqtEYECF1zVFajtNMu63ELKEfBHPKEnagA)
 * [2021-09-29: Climate Models and Experiments on Tiger](https://docs.google.com/presentation/d/1avTt-jKJb_XqO5CyYEbbKWuL5uVmIZT7IVWE1TpO0MI)
+* [2021-07-14: 2021 PNW heatwave](https://docs.google.com/presentation/d/11HWF6isfy-iz8XGLtRrvkXFub5T8yCgkrBcHK3PuhD4)
 * [2019-10-28: TC in IBTrACS_v04_1980-2018](https://docs.google.com/presentation/d/1tIAR1QI4jt7iuexMTK8axNdEyiO_MO64T13HIIv8D8Q)
 * [ENSO impact on Sri Lanka Climate](https://docs.google.com/presentation/d/1HOqww7g5H3Bgq0WJt6p7KU8BBleELhSaKGmRObn1RM0/edit?usp=sharing)
 * [ENSO introduction](https://docs.google.com/presentation/d/1NZeWN8EjMGxwU7H4c_xCyhmWN0T941WSQrJqCgdcqGQ/edit?usp=sharing)
