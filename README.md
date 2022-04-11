@@ -2,6 +2,7 @@
 Miscellaneous
 
 ## Tips
+* [TC track analysis on Tiger](./tips/tc_tracking_on_tiger.md)
 * [work on remote server](https://github.com/wy2136/learnPython/blob/master/get_started.md)
 * [work with tigerdata](https://github.com/PrincetonUniversity/tigerdata-offloading)
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
