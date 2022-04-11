@@ -1,4 +1,4 @@
-# TC tracking process on the tiger machine at Princeton University
+# TC track analysis on the tiger machine at Princeton University
 * Wenchang Yang 
 * Department of Geosciences, Princeton University
 * 2022-04-11
