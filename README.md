@@ -8,6 +8,7 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2022-06-30: AM4-urban and heatwave](https://docs.google.com/presentation/d/1ehpnk2y_9-fWIb0FMBUx3hwv-FD4iK7oGXb3A0KPj_g)
 * [2022-04-06: 2021 PNW heatwave and urbanization](https://docs.google.com/presentation/d/1nK6VjJ2ACYqtEYECF1zVFajtNMu63ELKEfBHPKEnagA)
 * [2021-09-29: Climate Models and Experiments on Tiger](https://docs.google.com/presentation/d/1avTt-jKJb_XqO5CyYEbbKWuL5uVmIZT7IVWE1TpO0MI)
 * [2021-07-14: 2021 PNW heatwave](https://docs.google.com/presentation/d/11HWF6isfy-iz8XGLtRrvkXFub5T8yCgkrBcHK3PuhD4)
