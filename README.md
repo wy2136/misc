@@ -8,6 +8,7 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2023-04-12: Understanding global mean precipitation response to radiative forcings](https://docs.google.com/presentation/d/14YNryVx1g0Q5qERXeLp08zDWts-U2k-j1K32KnVzua0)
 * [2023-03-08: TC frequency sensitivity](https://docs.google.com/presentation/d/1ejFElQ0ns738C7Kw3GM4xCjzNMm7Rx7vht-JNgIih6I)
 * [2022-06-30: AM4-urban and heatwave](https://docs.google.com/presentation/d/1ehpnk2y_9-fWIb0FMBUx3hwv-FD4iK7oGXb3A0KPj_g)
 * [2022-04-06: 2021 PNW heatwave and urbanization](https://docs.google.com/presentation/d/1nK6VjJ2ACYqtEYECF1zVFajtNMu63ELKEfBHPKEnagA)
