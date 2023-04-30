@@ -8,6 +8,7 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2023-05: Della-sr and Della-genoa performance in running GFDL-AM2.1/CM2.1](https://docs.google.com/presentation/d/1QlUHnqTBwM-mqajJQ8lleGSJDOKCXQEl_kp6iXSiwAc)
 * [2023-04-20: Bosong: HiRAM experiments on Tiger](https://docs.google.com/presentation/d/1apo2XIiH9DqfD1Lj3yXHzdyZcPaLNA3L)
 * [2023-04-20: Climate Models and Experiments on Tiger](https://docs.google.com/presentation/d/15Zervcxe4k4hC-ICqv2_FZjLi9HV0Fgxxv54FP9uUjI)
 * [2023-04-12: Understanding global mean precipitation response to radiative forcings](https://docs.google.com/presentation/d/14YNryVx1g0Q5qERXeLp08zDWts-U2k-j1K32KnVzua0)
