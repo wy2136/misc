@@ -25,6 +25,7 @@ Miscellaneous
 * [Sri Lanka Rainfall Inter-decadal Variability](https://docs.google.com/presentation/d/1ncwRY-phRPwW1Pzo_oqd6by9NxWdVv-fm3q1Wl0DAXs)
 
 ## Notebooks
+* [TC tracks plot](https://nbviewer.jupyter.org/url/tigress-web.princeton.edu/%7Ewenchang/pub/notebooks/wyplot_tc_tracks.ipynb)
 * [climSIRS](https://nbviewer.org/url/tigress-web.princeton.edu/~wenchang/pub/climate_and_disease/climSIRS.ipynb)
 * [LME volcanic forcing](https://nbviewer.jupyter.org/url/tigress-web.princeton.edu/~wenchang/pub/notebooks/lme.ipynb)
 * [Github on nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/wy2136/)
