@@ -2,6 +2,7 @@
 Miscellaneous
 
 ## Tips
+* [numerical experiments list](http://tigress-web.princeton.edu/~wenchang/pub/numerical_experiments_list/)
 * [Unix Primer - Basic Commands In the Unix Shell](https://www.ks.uiuc.edu/Training/Tutorials/Reference/unixprimer.html)
 * [TC track analysis on Tiger](./tips/tc_tracking_on_tiger.md)
 * [work on remote server](https://github.com/wy2136/learnPython/blob/master/get_started.md)
