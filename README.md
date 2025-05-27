@@ -10,6 +10,7 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2025-05-28: The Solar Radiation Management Project](https://docs.google.com/presentation/d/1439qLheRIClCk6tCYZLAnVWVjCKRTiyNkuGee6Iv7Hg)
 * [2024-02-27: The Vecchi Research Group](https://docs.google.com/presentation/d/1-R1qp7UZnEcWx-xloq7hVcCMgbeqRTi887yiFo5ilYI)
 * [2023-10-18: Understanding global mean precipitation response to radiative forcings](https://docs.google.com/presentation/d/1zHU2tFxoZkbc6MYKj1iduVX5yPQLhVcJ_QqG8BAdivM)
 * [2023-05: Della-sr and Della-genoa performance in running GFDL-AM2.1/CM2.1](https://docs.google.com/presentation/d/1QlUHnqTBwM-mqajJQ8lleGSJDOKCXQEl_kp6iXSiwAc)
