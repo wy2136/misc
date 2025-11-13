@@ -10,6 +10,7 @@ Miscellaneous
 * [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Slides
+* [2025-11-12: AI Weather and Climate Models](https://docs.google.com/presentation/d/15JvUM91Cnb1BjpCNwTMEUUkAGhVEARoJ)
 * [2025-10-29: Fire-related Weather and Climate in Theory, Observations and Climate Model Simulations](https://docs.google.com/presentation/d/17dAHtHhoeA41AM-BVTlY3i-mN7_PVLAJrK1IcgiXHvU)
 * [2025-05-28: The Solar Radiation Management Project](https://docs.google.com/presentation/d/1439qLheRIClCk6tCYZLAnVWVjCKRTiyNkuGee6Iv7Hg)
 * [2024-02-27: The Vecchi Research Group](https://docs.google.com/presentation/d/1-R1qp7UZnEcWx-xloq7hVcCMgbeqRTi887yiFo5ilYI)
